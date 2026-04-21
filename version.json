@@ -1,1 +1,8 @@
-
+{
+    "latest_version": "2604.1.1.63",
+    "update_time": "2026-04-21",
+    "changelog": "适配 2604.1.1.63 版本",
+    "UWorld": "0x1225E938",
+    "GNames": "0x124EE760",
+    "GObjects": "0x1221F570"
+}
